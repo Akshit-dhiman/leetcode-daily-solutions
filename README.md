@@ -57,10 +57,6 @@ GitHub: Akshit-dhiman
 Email: akshitdhiman00@gmail.com.com
 🚀 Happy Coding!
 
-markdown
-Copy
-Edit
-
 **📌 Steps to Upload this to GitHub:**
 1. Open **PowerShell** or **CMD** in your repo folder.
 2. Run:
