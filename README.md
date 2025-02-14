@@ -67,12 +67,4 @@ Edit
    ```bash
    echo "# LeetCode Daily Solutions 🚀" > README.md
    notepad README.md
-Paste the above README.md content.
-Save and close.
-Run:
-bash
-Copy
-Edit
-git add README.md
-git commit -m "Added README"
-git push origin main
+
