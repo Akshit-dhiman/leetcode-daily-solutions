@@ -7,11 +7,13 @@ Welcome to my **LeetCode Daily Solutions** repository! Here, I post my daily sol
 ## 📂 Repository Structure
 The solutions are categorized into three difficulty levels:
 
-leetcode-daily-solutions/ │── solutions/ │ ├── Easy/ # Solutions to easy problems │ ├── Medium/ # Solutions to medium problems │ ├── Hard/ # Solutions to hard problems │── README.md # This file │── .gitignore # Ignored files (optional)
-
-yaml
-Copy
-Edit
+leetcode-daily-solutions/
+│── solutions/
+│   ├── Easy/      # Solutions to easy problems
+│   ├── Medium/    # Solutions to medium problems
+│   ├── Hard/      # Solutions to hard problems
+│── README.md      # This file
+│── .gitignore     # Ignored files (optional)
 
 ---
 
@@ -38,14 +40,12 @@ If you have a better approach, feel free to contribute!
 Fork this repository.
 Clone your fork:
 bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/leetcode-daily-solutions.git
+
+git clone https://github.com/Akshit-dhiman/leetcode-daily-solutions.git
 Add your optimized solution.
 Commit and push:
 bash
-Copy
-Edit
+
 git add .
 git commit -m "Added optimized solution for LeetCode [Problem No.]"
 git push origin main
@@ -54,7 +54,7 @@ Open a Pull Request on GitHub.
 For discussions, optimizations, or collaboration:
 
 GitHub: Akshit-dhiman
-Email: your.email@example.com
+Email: akshitdhiman00@gmail.com.com
 🚀 Happy Coding!
 
 markdown
