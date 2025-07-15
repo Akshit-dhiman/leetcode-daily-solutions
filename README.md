@@ -64,3 +64,11 @@ Email: akshitdhiman00@gmail.com.com
    echo "# LeetCode Daily Solutions 🚀" > README.md
    notepad README.md
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3396-valid-word) |
+<!---LeetCode Topics End-->
