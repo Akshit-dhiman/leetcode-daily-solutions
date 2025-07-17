@@ -71,4 +71,24 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3396-valid-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
