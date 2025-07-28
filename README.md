@@ -95,6 +95,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +104,8 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
