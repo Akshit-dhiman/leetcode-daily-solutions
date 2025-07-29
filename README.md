@@ -78,6 +78,7 @@ Email: akshitdhiman00@gmail.com.com
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Tree
@@ -95,6 +96,7 @@ Email: akshitdhiman00@gmail.com.com
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
