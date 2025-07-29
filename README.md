@@ -70,17 +70,20 @@ Email: akshitdhiman00@gmail.com.com
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 | [3396-valid-word](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
