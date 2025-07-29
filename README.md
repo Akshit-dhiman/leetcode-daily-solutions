@@ -80,6 +80,7 @@ Email: akshitdhiman00@gmail.com.com
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0051-n-queens) |
@@ -102,6 +103,7 @@ Email: akshitdhiman00@gmail.com.com
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0051-n-queens) |
@@ -111,6 +113,7 @@ Email: akshitdhiman00@gmail.com.com
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
@@ -132,4 +135,8 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
