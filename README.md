@@ -119,4 +119,12 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
