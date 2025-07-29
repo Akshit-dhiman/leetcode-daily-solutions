@@ -88,6 +88,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
+| [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Tree
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
+| [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
+| [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Math
 |  |
 | ------- |
@@ -139,4 +142,5 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
+| [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
