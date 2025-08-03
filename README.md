@@ -78,6 +78,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
+| [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
+| [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -155,4 +158,8 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
