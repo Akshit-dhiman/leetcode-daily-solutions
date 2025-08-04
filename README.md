@@ -123,12 +123,14 @@ Email: akshitdhiman00@gmail.com.com
 | [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
+| [0940-fruit-into-baskets](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0940-fruit-into-baskets) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0940-fruit-into-baskets](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0940-fruit-into-baskets) |
 ## Union Find
 |  |
 | ------- |
@@ -164,4 +166,8 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
