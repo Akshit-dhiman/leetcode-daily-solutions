@@ -103,6 +103,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0940-fruit-into-baskets) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,4 +172,16 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0940-fruit-into-baskets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
