@@ -147,16 +147,19 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0231-power-of-two) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Math
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
