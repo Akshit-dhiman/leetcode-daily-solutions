@@ -89,6 +89,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0052-n-queens-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Tree
@@ -96,6 +97,7 @@ Email: akshitdhiman00@gmail.com.com
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Email: akshitdhiman00@gmail.com.com
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0113-path-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -197,6 +200,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
