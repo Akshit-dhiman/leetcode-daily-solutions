@@ -95,6 +95,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
 ## Array
 |  |
 | ------- |
@@ -191,4 +193,12 @@ Email: akshitdhiman00@gmail.com.com
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3791-fruits-into-baskets-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
