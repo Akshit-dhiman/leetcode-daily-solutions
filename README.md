@@ -160,6 +160,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
+| [1448-maximum-69-number](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -205,4 +206,8 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
