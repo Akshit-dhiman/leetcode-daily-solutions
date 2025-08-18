@@ -98,6 +98,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0113-path-sum-ii) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
@@ -210,6 +211,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Greedy
 |  |
 | ------- |
