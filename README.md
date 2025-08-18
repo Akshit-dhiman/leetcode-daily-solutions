@@ -99,6 +99,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0113-path-sum-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0112-path-sum](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0113-path-sum-ii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,4 +218,5 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
