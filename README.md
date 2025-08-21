@@ -80,6 +80,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0940-fruit-into-baskets) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -179,6 +181,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
