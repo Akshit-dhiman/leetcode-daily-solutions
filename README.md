@@ -78,6 +78,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
+| [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 ## Backtracking
 |  |
@@ -130,6 +131,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
@@ -175,6 +177,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
+| [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [1022-unique-paths-iii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1022-unique-paths-iii) |
 ## Divide and Conquer
 |  |
