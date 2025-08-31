@@ -123,6 +123,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0040-combination-sum-ii) |
@@ -231,4 +232,8 @@ Email: akshitdhiman00@gmail.com.com
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
