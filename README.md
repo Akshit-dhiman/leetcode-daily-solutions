@@ -134,6 +134,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -150,6 +151,7 @@ Email: akshitdhiman00@gmail.com.com
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0169-majority-element) |
 | [0940-fruit-into-baskets](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0940-fruit-into-baskets) |
 ## Union Find
 |  |
@@ -190,6 +192,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0169-majority-element) |
 ## Game Theory
 |  |
 | ------- |
@@ -238,4 +241,12 @@ Email: akshitdhiman00@gmail.com.com
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0027-remove-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
