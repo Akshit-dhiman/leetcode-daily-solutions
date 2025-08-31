@@ -77,6 +77,7 @@ Email: akshitdhiman00@gmail.com.com
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
@@ -133,6 +134,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
