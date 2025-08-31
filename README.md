@@ -138,6 +138,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -174,6 +175,7 @@ Email: akshitdhiman00@gmail.com.com
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0060-permutation-sequence) |
+| [0189-rotate-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0909-stone-game) |
 | [1448-maximum-69-number](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/1448-maximum-69-number) |
@@ -245,6 +247,7 @@ Email: akshitdhiman00@gmail.com.com
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Akshit-dhiman/leetcode-daily-solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
